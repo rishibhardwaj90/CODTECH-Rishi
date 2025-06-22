@@ -6,10 +6,15 @@ Each task is maintained in its **own branch**, and this main branch serves as an
 
 ---
 *COMPANY*: CODTECH IT SOLUTIONS
+
 *NAME*: RISHI BHARDWAJ
+
 *INTERN ID*: CT04DM935
+
 *DOMAIN*: DATA ANALYTICS
+
 *DURATION*: 4 WEEEKS
+
 *MENTOR*: NEELA SANTOSH
 ---
 
