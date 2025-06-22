@@ -33,6 +33,8 @@ Output:
 * Dashboards are in `Main_task3.pbix`
 * Insight Examples are in `sample_task3.pbix` and `example_task3.xlsx`
 
+---
+
 Main Branch:
 
 
