@@ -1,6 +1,22 @@
-Sentiment Analysis – Task 4
+## Sentiment Analysis – Task 4
 
 This project performs sentiment analysis on a dataset using Python. It applies natural language processing techniques to classify and visualize sentiments.
+
+---
+
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: RISHI BHARDWAJ
+
+*INTERN ID*: CT04DM935
+
+*DOMAIN*: DATA ANALYTICS
+
+*DURATION*: 4 WEEEKS
+
+*MENTOR*: NEELA SANTOSH
+
+---
 
 Repository Structure:
 ```
