@@ -48,11 +48,13 @@ Output:
 Visualizations are stored in the `outputs_task2/` folder.
 Predictions are saved in `op_task2.csv`.
 
+---
+
 Main Branch:
 
 
 Previous Branch:
-
+* 🔁 [`Task-1`](https://github.com/rishibhardwaj90/CODTECH-Rishi/tree/Task-1) – NYC Taxi Analysis
 
 Next Branches:
 * 🔁 [`Task-3`](https://github.com/rishibhardwaj90/CODTECH-Rishi/tree/Task-3) – Power BI Business Dashboard
