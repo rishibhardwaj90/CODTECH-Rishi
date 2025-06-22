@@ -3,7 +3,6 @@ NYC Taxi Data Analysis – Task 1
 This project performs exploratory data analysis on a NYC taxi dataset to extract meaningful insights using Python.
 
 Repository Structure:
-
 ```
 TASK_1/
 ├── dataset_task1.csv                # Raw dataset used for analysis
@@ -43,7 +42,6 @@ How to Run:
 1. Clone the repository.
 2. Navigate to the `TASK_1/` directory.
 3. Run the Python script:
-
 ```bash
 python "Task 1.py"
 ```
