@@ -1,33 +1,34 @@
-Task 3 – Data Analysis & Power BI Dashboard
+Power BI Dashboard & Insights – Task 3
 
-This repository contains the complete work for **Task 3**, involving data preparation, analysis, and visualization using Excel and Power BI.
+This project focuses on analyzing a dataset using Excel and Power BI to extract insights and build interactive dashboards for data-driven decision-making.
 
-Project Overview:
-* Preparing datasets for analysis
-* Extracting meaningful insights
-* Creating interactive dashboards using Power BI
-This project demonstrates the full data workflow — from raw data to final visualizations.
+Repository Structure:
+```
+TASK_3/
+├── dataset_task3.xlsx               # Raw dataset before cleaning
+├── main_task3.xlsx                  # Final cleaned dataset used in the main dashboard
+├── Main_task3.pbix                  # Primary Power BI report with full dashboards
+├── example_task3.xlsx               # Example insights from the data (in Excel)
+├── sample_task3.pbix                # Sample Power BI file highlighting example insights
+```
 
-Files Summary:
-| File Name            | Purpose                                                           |
-| -------------------- | ----------------------------------------------------------------- |
-| `main_task3.xlsx`    | Final cleaned dataset used for dashboard creation                 |
-| `Main_task3.pbix`    | Main Power BI report with dashboards and visualizations           |
-| `example_task3.xlsx` | Sample insights file showing how data is interpreted              |
-| `sample_task3.pbix`  | Power BI example with basic visualizations and insight highlights |
-| `dataset_task3.xlsx` | Raw dataset before cleaning and transformation                    |
+Features:
+* Raw data exploration and cleaning (Excel)
+* Final dataset used for visualization
+* Business insights presented via dashboards
+* Power BI visualizations of key trends and patterns
+* Example reports to illustrate interpretation
 
-Tools Used:
-* Microsoft Excel (for cleaning and prep)
-* Power BI Desktop (for dashboards and reports)
+Requirements:
+* Microsoft Excel
+* Microsoft Power BI Desktop (free) – [Download here](https://powerbi.microsoft.com/desktop/)
 
 How to Use:
-1. Open `main_task3.xlsx` to see the final structured data.
-2. Load `Main_task3.pbix` in Power BI Desktop to view the full interactive dashboard.
-3. Use `example_task3.xlsx` and `sample_task3.pbix` to understand how insights were derived.
-4. Explore and customize the dashboard to suit your needs.
+1. Clone or download the repository.
+2. Open `main_task3.xlsx` to view the cleaned dataset.
+3. Launch `Main_task3.pbix` using Power BI Desktop to explore the main dashboard.
+4. Refer to `example_task3.xlsx` and `sample_task3.pbix` to understand how example insights were created.
 
-Use Case:
-* Showcase skills in data storytelling and dashboard design
-* Present business insights from structured datasets
-* Learn or teach Power BI reporting techniques
+Output:
+* Dashboards are in `Main_task3.pbix`
+* Insight Examples are in `sample_task3.pbix` and `example_task3.xlsx`
