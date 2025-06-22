@@ -52,6 +52,6 @@ Main Branch:
 
 
 Previous Branches:
-
-
+* 🔁 [`Task-1`](https://github.com/rishibhardwaj90/CODTECH-Rishi/tree/Task-1) – NYC Taxi Analysis
+* 🔁 [`Task-2`](https://github.com/rishibhardwaj90/CODTECH-Rishi/tree/Task-2) – Titanic Prediction Model
 * 🔁 [`Task-3`](https://github.com/rishibhardwaj90/CODTECH-Rishi/tree/Task-3) – Power BI Business Dashboard
