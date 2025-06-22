@@ -5,6 +5,7 @@ This repository presents a collection of four diverse data science and analytics
 Each task is maintained in its **own branch**, and this main branch serves as an overview of the entire project.
 
 ---
+
 *COMPANY*: CODTECH IT SOLUTIONS
 
 *NAME*: RISHI BHARDWAJ
@@ -16,6 +17,7 @@ Each task is maintained in its **own branch**, and this main branch serves as an
 *DURATION*: 4 WEEEKS
 
 *MENTOR*: NEELA SANTOSH
+
 ---
 
 ### 📚 Project Structure:
