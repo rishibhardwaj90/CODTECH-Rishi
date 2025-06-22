@@ -1,6 +1,22 @@
-Power BI Dashboard & Insights – Task 3
+## Power BI Dashboard & Insights – Task 3
 
 This project focuses on analyzing a dataset using Excel and Power BI to extract insights and build interactive dashboards for data-driven decision-making.
+
+---
+
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: RISHI BHARDWAJ
+
+*INTERN ID*: CT04DM935
+
+*DOMAIN*: DATA ANALYTICS
+
+*DURATION*: 4 WEEEKS
+
+*MENTOR*: NEELA SANTOSH
+
+---
 
 Repository Structure:
 ```
