@@ -1,6 +1,22 @@
-NYC Taxi Data Analysis – Task 1
+## NYC Taxi Data Analysis – Task 1
 
 This project performs exploratory data analysis on a NYC taxi dataset to extract meaningful insights using Python.
+
+---
+
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: RISHI BHARDWAJ
+
+*INTERN ID*: CT04DM935
+
+*DOMAIN*: DATA ANALYTICS
+
+*DURATION*: 4 WEEEKS
+
+*MENTOR*: NEELA SANTOSH
+
+---
 
 Repository Structure:
 ```
