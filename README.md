@@ -1,6 +1,22 @@
-Titanic Survival Prediction – Task 2
+## Titanic Survival Prediction – Task 2
 
 This project analyzes Titanic passenger data and builds a machine learning model to predict survival outcomes using Python.
+
+---
+
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: RISHI BHARDWAJ
+
+*INTERN ID*: CT04DM935
+
+*DOMAIN*: DATA ANALYTICS
+
+*DURATION*: 4 WEEEKS
+
+*MENTOR*: NEELA SANTOSH
+
+---
 
 Repository Structure:
 ```
