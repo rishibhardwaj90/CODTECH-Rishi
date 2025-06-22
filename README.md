@@ -47,3 +47,13 @@ python "Task 2.py"
 Output:
 Visualizations are stored in the `outputs_task2/` folder.
 Predictions are saved in `op_task2.csv`.
+
+Main Branch:
+
+
+Previous Branch:
+
+
+Next Branches:
+* 🔁 [`Task-3`](https://github.com/rishibhardwaj90/CODTECH-Rishi/tree/Task-3) – Power BI Business Dashboard
+* 🔁 [`Task-4`](https://github.com/rishibhardwaj90/CODTECH-Rishi/tree/Task-4) – Text Sentiment Classification
