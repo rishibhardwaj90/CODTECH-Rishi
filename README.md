@@ -53,7 +53,7 @@ A summary CSV (`op_task1.csv`) will also be created.
 ---
 
 Main Branch:
-
+🔗 [Main Branch – Project Overview](https://github.com/rishibhardwaj90/CODTECH-Rishi/tree/main)
 
 Next Branches:
 * 🔁 [`Task-2`](https://github.com/rishibhardwaj90/CODTECH-Rishi/tree/Task-2) – Titanic Prediction Model
