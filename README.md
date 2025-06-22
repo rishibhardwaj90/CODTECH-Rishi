@@ -19,10 +19,10 @@ Each task is maintained in its **own branch**, and this main branch serves as an
 
 ### 🔀 Branch-wise Organization
 
-* 🔁 [`task-1`](https://github.com/rishibhardwaj90/CODTECH-Rishi/tree/Task-1) – NYC Taxi Analysis
-* 🔁 [`task-2`](https://github.com/rishibhardwaj90/CODTECH-Rishi/tree/Task-2) – Titanic Prediction Model
-* 🔁 [`task-3`](https://github.com/rishibhardwaj90/CODTECH-Rishi/tree/Task-3) – Power BI Business Dashboard
-* 🔁 [`task-4`](https://github.com/rishibhardwaj90/CODTECH-Rishi/tree/Task-4) – Text Sentiment Classification
+* 🔁 [`Task-1`](https://github.com/rishibhardwaj90/CODTECH-Rishi/tree/Task-1) – NYC Taxi Analysis
+* 🔁 [`Task-2`](https://github.com/rishibhardwaj90/CODTECH-Rishi/tree/Task-2) – Titanic Prediction Model
+* 🔁 [`Task-3`](https://github.com/rishibhardwaj90/CODTECH-Rishi/tree/Task-3) – Power BI Business Dashboard
+* 🔁 [`Task-4`](https://github.com/rishibhardwaj90/CODTECH-Rishi/tree/Task-4) – Text Sentiment Classification
 
 > 📌 *Click on any task above to view the complete implementation in that branch.*
 
